@@ -3,7 +3,7 @@
 This repo contains some of the files related to my master's research.
 
 The idea is to make available the folowing files:
-- [x] thesis's pdf;
+- [x] thesis's pdf: [compressed version here](./master-thesis/Falchetto_ViniciusBomfim_M_compressed.pdf)
 - [ ] matlab simulation codes;
 - [ ] published papers and drafts;
 
