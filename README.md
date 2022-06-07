@@ -7,6 +7,7 @@ The idea is to make available the folowing files:
 - [ ] matlab simulation codes;
 - [ ] published papers and drafts;
 
-Full text available at:
-1. DOI: [title](https://doi.org/10.47749/T/UNICAMP.2016.972559 )
-2. Other link: [title](https://hdl.handle.net/20.500.12733/1629177 )
+You may find the full text available at:
+- DOI (uni link): [https://doi.org/10.47749/T/UNICAMP.2016.972559](https://doi.org/10.47749/T/UNICAMP.2016.972559 )
+ OR
+- Full text download:  [https://hdl.handle.net/20.500.12733/1629177](https://hdl.handle.net/20.500.12733/1629177 )
