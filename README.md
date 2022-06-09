@@ -7,12 +7,9 @@ If you are interested in reading the full text, then I offer you with three opti
 - DOI (uni link): [https://doi.org/10.47749/T/UNICAMP.2016.972559](https://doi.org/10.47749/T/UNICAMP.2016.972559 )
 - Full text download:  [https://hdl.handle.net/20.500.12733/1629177](https://hdl.handle.net/20.500.12733/1629177 )
 
-The idea is to make available the folowing files:
+The goal is also to make available the folowing files:
 - [ ] matlab simulation codes;
 - [ ] published papers and drafts;
-
-For starters, you may find the full text available at:
-
 
 
 ## System Modeling and implementation: Euler Angles AND Quaternions.
@@ -20,3 +17,6 @@ For starters, you may find the full text available at:
 1. Include both simulations in different folders.
 2. Include toy examples showing the mumerical differences between quaternions and Euler angles implementations.
 3. Include python codes for the abovementioned models and simulations.
+
+
+## Adding some unrelated codes of the thesis
